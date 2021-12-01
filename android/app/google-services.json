@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "907199749528",
+    "project_id": "bettrack-5b43b",
+    "storage_bucket": "bettrack-5b43b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907199749528:android:a2f926ed9951aa58ad1fed",
+        "android_client_info": {
+          "package_name": "com.regalsystem.flutter_bet_track"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907199749528-7rletvh2th2h2nv6jhva2e2q40vevvdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy_jkQKidu4FypmVeJTZhyiqoeWqI7xkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907199749528-7rletvh2th2h2nv6jhva2e2q40vevvdm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
